@@ -53,10 +53,10 @@ This is the school's opinionated list of the top resources for learning the vari
 
 ##How To Contribute To This List
 
-1. clone the repo `git clone`
-2. create a branch `git checkout -b BRANCH_NAME`
+1. fork the repo `click the fork button on the top right of the Github page`
+2. clone the repo 'git clone https://github.com/YOUR_GITHUB_USERNAME/NSS-Cohort2-Resources.git'
 3. edit the `README.md` file using [Markdown syntax] (http://daringfireball.net/projects/markdown/syntax). Also review [Github flavored markdown](http://github.github.com/github-flavored-markdown/)
 4. commit your changes to the branch `git add README.md` then `git commit -m "updated the list"`
-5. push your branch up to Github `git push origin BRANCH_NAME`
-6. issue a pull request via Github
+5. push your repo up to Github `git push origin master`
+6. issue a pull request via Github 'click on the pullrequest button on the repo page'
 
