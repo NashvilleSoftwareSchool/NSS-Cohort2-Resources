@@ -13,6 +13,20 @@ This is the school's opinionated list of the top resources for learning the vari
 * [Global Structure of A HTML Document] (http://www.w3.org/TR/html401/struct/global.html)
 
 ##CSS
+* [HTML & CSS Book] (http://htmlandcssbook.com/)
+
+#####Web Fonts
+* [Font Matrix] (http://media.24ways.org/2007/17/fontmatrix.html) - see the fonts that come with computers
+* [Typetester] (http://www.typetester.org/) - experiment with font stacks
+* [Google Webfonts] (http://www.google.com/webfonts) - the easiest way to get web fonts up on your site
+* [@font-face guide] (http://sixrevisions.com/css/font-face-guide/) - the standard method
+* [@font-face syntax snippet] (http://css-tricks.com/snippets/css/using-font-face/)
+* [Font Squirrel] (http://www.fontsquirrel.com/) - @font-face kits and a generator
+* [Typekit] (https://typekit.com/) - hosted library of fonts you can use
+* [Font Deck] (http://fontdeck.com/) - hosted library of fonts you can use
+* [Webink] (http://www.webink.com/) - hosted library of fonts you can use
+* [The League of Moveable Type] (http://www.theleagueofmoveabletype.com/) - free fonts
+* [Lost Type Foundry] (http://www.losttype.com/) - free fonts
 
 ##JAVASCRIPT
 
