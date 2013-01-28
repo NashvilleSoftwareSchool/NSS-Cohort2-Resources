@@ -37,7 +37,17 @@ This is the school's opinionated list of the top resources for learning the vari
 * [The League of Moveable Type] (http://www.theleagueofmoveabletype.com/) - free fonts
 * [Lost Type Foundry] (http://www.losttype.com/) - free fonts
 
-##JAVASCRIPT
+##Command Line
+
+* [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+
+##Version Control With Git/Github
+
+* [ProGit] (http://git-scm.com/book)
+* [Git Immersion] (http://gitimmersion.com/)
+* [Try Git](http://try.github.com/)
+* [Git Reference] (http://gitref.org)
+
 
 ##How To Contribute To This List
 
