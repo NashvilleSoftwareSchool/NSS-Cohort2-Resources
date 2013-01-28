@@ -41,10 +41,10 @@ This is the school's opinionated list of the top resources for learning the vari
 
 ##How To Contribute To This List
 
-1. clone the repo `git clone `
+1. clone the repo `git clone`
 2. create a branch `git checkout -b BRANCH_NAME`
 3. edit the `README.md` file using [Markdown syntax] (http://daringfireball.net/projects/markdown/syntax)
-4. commit your changes to the branch `git add README.md`then `git commit -m "updated the list"`
+4. commit your changes to the branch `git add README.md` then `git commit -m "updated the list"`
 5. push your branch up to Github `git push origin BRANCH_NAME`
-6. issue a pull request
+6. issue a pull request via Github
 
