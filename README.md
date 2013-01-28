@@ -13,7 +13,16 @@ This is the school's opinionated list of the top resources for learning the vari
 * [Global Structure of A HTML Document] (http://www.w3.org/TR/html401/struct/global.html)
 
 ##CSS
+
+#####Books
 * [HTML & CSS Book] (http://htmlandcssbook.com/)
+
+#####Online
+* [The CSS Box-Model] (http://css-tricks.com/the-css-box-model/)
+* [All About Floats] (http://css-tricks.com/video-screencasts/42-all-about-floats-screencast/ ) (Video)
+* [Why Containers Don't Clear Themselves] (http://css-tricks.com/containers-dont-clear-floats/)
+* [Positioning: The Mozilla Developer Network] (https://developer.mozilla.org/en-US/docs/CSS/position)
+* [How Z-Index Works] (http://css-tricks.com/video-screencasts/40-how-z-index-works/) (Video)
 
 #####Web Fonts
 * [Font Matrix] (http://media.24ways.org/2007/17/fontmatrix.html) - see the fonts that come with computers
