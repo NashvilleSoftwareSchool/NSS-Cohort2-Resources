@@ -11,6 +11,7 @@ This is the school's opinionated list of the top resources for learning the vari
 #####Online
 * [World Wide Web Consortium] (http://www.w3.org/)
 * [Global Structure of A HTML Document] (http://www.w3.org/TR/html401/struct/global.html)
+* [Principles of Writing Consistent, Idiomatic HTML] (https://github.com/necolas/idiomatic-html)
 
 ##CSS
 
@@ -23,6 +24,7 @@ This is the school's opinionated list of the top resources for learning the vari
 * [Why Containers Don't Clear Themselves] (http://css-tricks.com/containers-dont-clear-floats/)
 * [Positioning: The Mozilla Developer Network] (https://developer.mozilla.org/en-US/docs/CSS/position)
 * [How Z-Index Works] (http://css-tricks.com/video-screencasts/40-how-z-index-works/) (Video)
+* [Principles of Writing Consistent, Idiomatic CSS] (https://github.com/necolas/idiomatic-css)
 
 #####Web Fonts
 * [Font Matrix] (http://media.24ways.org/2007/17/fontmatrix.html) - see the fonts that come with computers
